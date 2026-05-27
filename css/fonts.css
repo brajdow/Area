@@ -1,0 +1,54 @@
+@font-face {
+font-family: 'DM Sans';
+src:
+local('DM Sans'),
+url('../fonts/DMSans_18pt-Bold.woff2') format('woff2'),
+url('../fonts/DMSans_18pt-Bold.woff') format('woff');
+font-weight: 700;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'DM Sans';
+src:
+local('DM Sans'),
+url('../fonts/DMSans_18pt-Medium.woff2') format('woff2'),
+url('../fonts/DMSans_18pt-Medium.woff') format('woff');
+font-weight: 500;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'DM Sans';
+src:
+local('DM Sans'),
+url('../fonts/DMSans_18pt-Regular.woff2') format('woff2'),
+url('../fonts/DMSans_18pt-Regular.woff') format('woff');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Roboto';
+src:
+local('Roboto'),
+url(fonts/Roboto-Regular.woff2) format('woff2'),
+url(fonts/Roboto-Regular.woff) format('woff');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Crimson Text';
+src:
+local('Crimson Text'),
+url(fonts/CrimsonText-Regular.woff2) format('woff2'),
+url(fonts/CrimsonText-Regular.woff) format('woff');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
